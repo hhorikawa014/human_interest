@@ -9,3 +9,4 @@ pycache/
 .venv/
 
 # database
+hsa.db
