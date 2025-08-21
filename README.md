@@ -83,6 +83,7 @@ Backend is now running at http://127.0.0.1:8000 and Frontend is now running at h
 - Validate if the person is eligible for HSA by reviewing their health plan
 - Login (obviously necessary)
 - Modern web design
+- Admin dashboard with data export and reporting tools
 - Automatic merchant & MCC information input using a transaction API (if there is one)
 
 ## Resources

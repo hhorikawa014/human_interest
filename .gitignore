@@ -10,3 +10,4 @@ pycache/
 
 # database
 hsa.db
+.DS_Store
