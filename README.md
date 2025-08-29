@@ -62,9 +62,21 @@ npm install
 6. Open two terminals in total.
    Start backend in one of them by:
 
+Mac/Linux
+
 ```
 cd path/to/root/folder
 cd backend
+source .venv/bin/activate
+uvicorn app.main:app --reload
+```
+
+Windows
+
+```
+cd path/to/root/folder
+cd backend
+source .venv\Scripts\activate
 uvicorn app.main:app --reload
 ```
 
